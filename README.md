@@ -1,4 +1,4 @@
-# Multimodal Medical Image Analysis using Deep Learning: Advancements in Segmentation
+# Multimodal Medical Image Analysis using Deep Learning: Advancements in Segmentation, Registration and Disease Classification
 
 This project focuses on the cutting-edge advancements in the field of medical image analysis, particularly in segmentation, utilizing deep learning techniques. It explores multimodal approaches to improve accuracy and efficiency in analyzing medical images.
 
