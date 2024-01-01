@@ -12,7 +12,7 @@ This project requires specific Python libraries. To set up your environment, fol
 1. **Clone the Repository**: Clone this repository to your local machine or download the source code.
 
 2. **Install Dependencies**:
-   - Navigate to the `install_dependencies` folder.
+   - Navigate to the `Install_dependencies` folder.
    - If you are using a Unix-like system (Linux/Mac), run the `install_dependencies.sh` script.
    - If you are on Windows, run the `install_dependencies.bat` script.
    
