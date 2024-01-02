@@ -1,4 +1,4 @@
-# Testing the model against the CBIS-DDSM dataset. 
+# Testing the model
 import os
 import pandas as pd
 import numpy as np
