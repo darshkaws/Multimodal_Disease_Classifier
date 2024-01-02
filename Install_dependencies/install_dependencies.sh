@@ -4,7 +4,7 @@
 python3 -m pip install --upgrade pip
 
 # Install required packages
-pip3 install pandas numpy matplotlib plotly seaborn opencv-python tensorflow keras scikit-learn Pillow
+pip3 install pandas numpy matplotlib plotly seaborn opencv-python tensorflow keras scikit-learn Pillow scipy
 
 # Check if the installation was successful
 if [ $? -eq 0 ]; then
