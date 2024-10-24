@@ -4,7 +4,7 @@ This project focuses on the cutting-edge advancements in the field of medical im
 
 ## Paper Link
 For detailed insights and methodologies, refer to our comprehensive paper. 
-[Click Here to access the paper](https://www.overleaf.com/1565854883cxxjqndwfjkt#7d9a1f)
+[Click Here to access the paper](-)
 
 ## Installation
 This project requires specific Python libraries. To set up your environment, follow these steps:
